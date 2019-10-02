@@ -1,0 +1,548 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* l10n_co_account_payment_means
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0c-20160606\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-01 21:10+0000\n"
+"PO-Revision-Date: 2019-10-01 21:10+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_001
+#: selection:account.payment.mean.code,code:0
+msgid "Instrument not defined"
+msgstr "Instrumento no definido"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_002
+#: selection:account.payment.mean.code,code:0
+msgid "ACH Credit"
+msgstr "Crédito ACH"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_003
+#: selection:account.payment.mean.code,code:0
+msgid "ACH debit"
+msgstr "Débito ACH"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_004
+#: selection:account.payment.mean.code,code:0
+msgid "ACH Demand Debit Reversal"
+msgstr "Reversión débito de demanda ACH"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_005
+#: selection:account.payment.mean.code,code:0
+msgid "ACH Demand Credit Reversal"
+msgstr "Reversión crédito de demanda ACH"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_006
+#: selection:account.payment.mean.code,code:0
+msgid "ACH Demand Credit"
+msgstr "Crédito de demanda ACH"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_007
+#: selection:account.payment.mean.code,code:0
+msgid "ACH Demand Debit"
+msgstr "Débito de demanda ACH"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_008
+#: selection:account.payment.mean.code,code:0
+msgid "Keep"
+msgstr "Mantener"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_009
+#: selection:account.payment.mean.code,code:0
+msgid "National or Regional Clearing"
+msgstr "Clearing Nacional o Regional"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_010
+#: selection:account.payment.mean.code,code:0
+msgid "Cash"
+msgstr "Efectivo"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_011
+#: selection:account.payment.mean.code,code:0
+msgid "Credit Credit Reversal"
+msgstr "Reversión Crédito Ahorro"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_012
+#: selection:account.payment.mean.code,code:0
+msgid "Reversal Debit Savings"
+msgstr "Reversión Débito Ahorro"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_013
+#: selection:account.payment.mean.code,code:0
+msgid "Savings Credit"
+msgstr "Crédito Ahorro"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_014
+#: selection:account.payment.mean.code,code:0
+msgid "Savings Debit"
+msgstr "Débito Ahorro"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_015
+#: selection:account.payment.mean.code,code:0
+msgid "Bookentry Credit"
+msgstr "Bookentry Crédito"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_016
+#: selection:account.payment.mean.code,code:0
+msgid "Bookentry Debit"
+msgstr "Bookentry Débito"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_017
+#: selection:account.payment.mean.code,code:0
+msgid "Cash demand concentration / Credit Disbursement (CCD)"
+msgstr "Concentración de la demanda en efectivo /Desembolso Crédito (CCD)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_018
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Business Payment Credit (CTP)"
+msgstr "Concentración de la demanda en efectivo / Desembolso (CCD) débito"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_019
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Business Payment Credit (CTP)"
+msgstr "Crédito de pago de negocios corporativos (CTP)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_020
+#: selection:account.payment.mean.code,code:0
+msgid "Check"
+msgstr "Cheque"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_021
+#: selection:account.payment.mean.code,code:0
+msgid "Banking project"
+msgstr "Proyecto bancario"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_022
+#: selection:account.payment.mean.code,code:0
+msgid "Certified banking project"
+msgstr "Proyecto bancario certificado"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_023
+#: selection:account.payment.mean.code,code:0
+msgid "Bank check"
+msgstr "Cheque bancario"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_024
+#: selection:account.payment.mean.code,code:0
+msgid "Exchange note waiting for acceptance"
+msgstr "Canje de nota esperando aceptación"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_025
+#: selection:account.payment.mean.code,code:0
+msgid "Certified check"
+msgstr "Cheque certificado"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_026
+#: selection:account.payment.mean.code,code:0
+msgid "Local Check"
+msgstr "Cheque local"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_027
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Business Payment Debit (CTP)"
+msgstr "Débito de pago de negocios corporativos (CTP)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_028
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Exchange Business Credit (CTX)"
+msgstr "Crédito comercial de intercambio corporativo (CTX)"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_029
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Exchange Business Debit (CTX)"
+msgstr "Débito comercial de intercambio corporativo (CTX)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_030
+#: selection:account.payment.mean.code,code:0
+msgid "Credit Transfer"
+msgstr "Transferencia de credito"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_031
+#: selection:account.payment.mean.code,code:0
+msgid "Debit Transfer"
+msgstr "Transferencia de débito"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_032
+#: selection:account.payment.mean.code,code:0
+msgid "Cash Concentration / Disbursement Plus Credit (CCD +)"
+msgstr "Concentración de efectivo / desembolso más crédito (CCD +)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_033
+#: selection:account.payment.mean.code,code:0
+msgid "Cash concentration / Debit plus disbursement (CCD +)"
+msgstr "Concentración de efectivo / débito más desembolso (CCD +)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_034
+#: selection:account.payment.mean.code,code:0
+msgid "Payment and pre-agreed deposit (PPD)"
+msgstr "Pago y depósito previamente acordado (PPD)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_035
+#: selection:account.payment.mean.code,code:0
+msgid "Cash concentration savings / Disbursement Credit (CCD)"
+msgstr "Ahorro de concentración de efectivo / crédito de desembolso (CCD)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_036
+#: selection:account.payment.mean.code,code:0
+msgid "Cash concentration savings / Disbursement Debit (CCD)"
+msgstr "Ahorro de concentración de efectivo / Débito de desembolso (CCD)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_037
+#: selection:account.payment.mean.code,code:0
+msgid "Payment Corporate Business Savings Credit (CTP)"
+msgstr "Pago de crédito de ahorro empresarial corporativo (CTP)"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_038
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Business Payment Savings Debit (CTP)"
+msgstr "Débito de ahorro de pago de negocios corporativos (CTP)"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_039
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Exchange Business Credit (CTX)"
+msgstr "Crédito Negocio Intercambio Corporativo (CTX)"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_040
+#: selection:account.payment.mean.code,code:0
+msgid "Corporate Exchange Business Debit (CTX)"
+msgstr "Débito Negocio Intercambio Corporativo (CTX)"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_041
+#: selection:account.payment.mean.code,code:0
+msgid "Cash concentration / Disbursement Credit plus (CCD +)"
+msgstr "Concentración efectivo/Desembolso Crédito plus (CCD+)"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_042
+#: selection:account.payment.mean.code,code:0
+msgid "Bank transfer"
+msgstr "Consiganción bancaria"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_043
+#: selection:account.payment.mean.code,code:0
+msgid "Cash concentration / Debit plus disbursement (CCD +)"
+msgstr "Concentración efectivo / Desembolso Débito plus (CCD+)"
+
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_044
+#: selection:account.payment.mean.code,code:0
+msgid "Exchange rate"
+msgstr "Nota cambiaria"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_045
+#: selection:account.payment.mean.code,code:0
+msgid "Bank Credit Transfer"
+msgstr "Transferencia Crédito Bancario"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_046
+#: selection:account.payment.mean.code,code:0
+msgid "Interbank Debit Transfer"
+msgstr "Transferencia Débito Interbancario"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_047
+#: selection:account.payment.mean.code,code:0
+msgid "Bank Debit Transfer"
+msgstr "Transferencia Débito Bancaria"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_048
+#: selection:account.payment.mean.code,code:0
+msgid "Credit card"
+msgstr "Tarjeta Crédito"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_049
+#: selection:account.payment.mean.code,code:0
+msgid "Debit card"
+msgstr "Tarjeta Débito"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_050
+#: selection:account.payment.mean.code,code:0
+msgid "Post-turn"
+msgstr "Postgiro"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_051
+#: selection:account.payment.mean.code,code:0
+msgid "Telex French banking standard"
+msgstr "Telex estándar bancario francés"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_052
+#: selection:account.payment.mean.code,code:0
+msgid "Urgent business payment"
+msgstr "Pago comercial urgente"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_053
+#: selection:account.payment.mean.code,code:0
+msgid "Urgent Treasury Payment"
+msgstr "Pago Tesorería Urgente"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_060
+#: selection:account.payment.mean.code,code:0
+msgid "Promising note"
+msgstr "Nota promisoria"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_061
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by the creditor"
+msgstr "Nota promisoria firmada por el acreedor"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_062
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by the creditor, endorsed by the bank"
+msgstr "Nota promisoria firmada por el acreedor, avalada por el banco"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_063
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by the creditor, endorsed by a third party"
+msgstr "Nota promisoria firmada por el acreedor, avalada por un tercero"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_064
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by the bank"
+msgstr "Nota promisoria firmada pro el banco"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_065
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by a bank endorsed by another bank"
+msgstr "Nota promisoria firmada por un tercero avalada por un banco"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_066
+#: selection:account.payment.mean.code,code:0
+msgid "Signed promissory note"
+msgstr "Nota promisoria firmada pro el banco"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_067
+#: selection:account.payment.mean.code,code:0
+msgid "Promissory note signed by a third party endorsed by a bank"
+msgstr "Telex estándar bancario francés"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_070
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of note by the creditor"
+msgstr "Retiro de nota por el por el acreedor
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_071
+#: selection:account.payment.mean.code,code:0
+msgid "Bonds"
+msgstr "Bonos"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_072
+#: selection:account.payment.mean.code,code:0
+msgid "Vouchers"
+msgstr "Vales"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_074
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of note by the creditor about a bank"
+msgstr "Retiro de nota por el por el acreedor sobre un banco"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_075
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of note by the creditor, endorsed by another bank"
+msgstr "Retiro de nota por el acreedor, avalada por otro banco"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_076
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of note by the creditor, on a bank endorsed by a third party"
+msgstr "Retiro de nota por el acreedor, sobre un banco avalada por un tercero"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_077
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of a note by the creditor about a third party"
+msgstr "Retiro de una nota por el acreedor sobre un tercero"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_078
+#: selection:account.payment.mean.code,code:0
+msgid "Withdrawal of a note by the creditor about a third party endorsed by a bank"
+msgstr "Retiro de una nota por el acreedor sobre un tercero avalada por un banco"
+
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_091
+#: selection:account.payment.mean.code,code:0
+msgid "Transferable Bank Note"
+msgstr "Nota bancaria tranferible"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_092
+#: selection:account.payment.mean.code,code:0
+msgid "Transferable local check"
+msgstr "Cheque local traferible"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_093
+#: selection:account.payment.mean.code,code:0
+msgid "Referenced turn"
+msgstr "Giro referenciado"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_094
+#: selection:account.payment.mean.code,code:0
+msgid "Urgent turn"
+msgstr "Giro urgente"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_095
+#: selection:account.payment.mean.code,code:0
+msgid "Open Format Twist"
+msgstr "Giro formato abierto"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_096
+#: selection:account.payment.mean.code,code:0
+msgid "Payment method requested not used"
+msgstr "Método de pago solicitado no usuado"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_097
+#: selection:account.payment.mean.code,code:0
+msgid "Clearing between partner"
+msgstr "Compensación entre socios"
+
+#. module: l10n_co_account_payment_means
+#: model:account.payment.mean.code,name:l10n_co_account_payment_means.account_payment_mean_code_000
+#: selection:account.payment.mean.code,code:0
+msgid "Mutual agreement"
+msgstr "Acuerdo mutuo"
+
+
+
+
+
+
+#. module: l10n_co_account_payment_means
+#: model:ir.model.fields,field_description:l10n_co_account_payment_means.field_l10n_co_account_payment_means_structure_name
+msgid "Method"
+msgstr "Medio"
+
+#. module: l10n_co_account_payment_means
+#: model:ir.model.fields,field_description:l10n_co_account_payment_means.field_l10n_co_account_payment_means_structure_code
+msgid "Code"
+msgstr "Código"
+
+#. module: l10n_co_account_payment_means
+#: sql_constraint:account.payment.mean.code:0
+msgid "The name must be unique !"
+msgstr "¡ El medio debe ser único !"
+
+#. module: l10n_co_account_payment_means
+#: sql_constraint:account.payment.mean.code:0
+msgid "The code must be unique !"
+msgstr "¡ El código debe ser único !"
+
+
+#. module: l10n_co_account_payment_means
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_filter
+msgid "Method"
+msgstr "Medio"
+
+#. module: l10n_co_account_payment_means
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_filter
+msgid "Code"
+msgstr "Código"
+
+#. module: l10n_co_account_payment_means
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_form_view
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_tree_view
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_action
+#: model:ir.ui.view,arch_db:l10n_co_account_payment_means.account_payment_mean_code_action_menu
+msgid "Account Payment Means"
+msgstr "Medios de pago de cuenta"
