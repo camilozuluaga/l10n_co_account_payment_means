@@ -17,6 +17,7 @@
 	'data': [
 		'data/account_payment_mean_code_data.xml',
 		'views/account_payment_mean_code.xml',
+		'views/account_invoice.xml',
 		'security/ir.model.access.csv',
 		
 	],
